@@ -87,7 +87,7 @@ export default function Header() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/dean-ahlgren"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-dark-400 hover:text-white hover:bg-dark-800 rounded-lg transition-colors"
