@@ -78,7 +78,7 @@ export default function Header() {
           {/* Social Links & Mobile Menu Button */}
           <div className="flex items-center gap-2">
             <a
-              href="https://github.com"
+              href="https://github.com/Ahlchemy/Hotel-Cancellation-Prediction"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-dark-400 hover:text-white hover:bg-dark-800 rounded-lg transition-colors"

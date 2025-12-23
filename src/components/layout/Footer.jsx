@@ -45,7 +45,7 @@ export default function Footer() {
             <h3 className="font-semibold mb-4 text-dark-200">Connect</h3>
             <div className="flex gap-3 mb-4">
               <a
-                href="https://github.com"
+                href="https://github.com/Ahlchemy/Hotel-Cancellation-Prediction"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-dark-800 hover:bg-dark-700 rounded-lg transition-colors group"
@@ -71,7 +71,7 @@ export default function Footer() {
               </a>
             </div>
             <a
-              href="https://github.com"
+              href="https://github.com/Ahlchemy/Hotel-Cancellation-Prediction"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm text-primary-400 hover:text-primary-300 transition-colors"
